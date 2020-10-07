@@ -1,4 +1,5 @@
 # HP ProDesk 400 G1 - Mojave Hackintosh
+[⬅️  Previous: NONE] | [Next: Catalina ➡️](https://github.com/lukizel/Catalina-HP-ProDesk-400-G1)
 ## Configuration
 
 | Specifications | Details                                                  |
